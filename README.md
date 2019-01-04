@@ -12,6 +12,8 @@
 
 **General Information For Development requirements**
 
+First Header | Second Header
+------------ | -------------
 Visual Studio 2015 Professional 
 Visual C++ 2015
 versión InstallShield 2015 Limited Edition for Visual Studio
