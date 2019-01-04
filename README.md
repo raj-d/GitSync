@@ -82,7 +82,8 @@ Custom control to standardize the messageBox according to the Convo format
 ![Image of ref](https://github.com/raj-d/GitSync/blob/master/ref_1.png)
 #
 ![Image of ref](https://github.com/raj-d/GitSync/blob/master/ref_3.png)
-Right Click to SipClient Project and open Properties
+
+__Right Click to SipClient Project and open Properties__
 
 ### Executable Directories: 
 
