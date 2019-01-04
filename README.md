@@ -12,11 +12,11 @@
 
 **General Information For Development requirements**
 
-First Header | Second Header
------------- | -------------
+Software Requirements 
+------------ 
 Visual Studio 2015 Professional 
 Visual C++ 2015
-versión InstallShield 2015 Limited Edition for Visual Studio
+version InstallShield 2015 Limited Edition for Visual Studio
 
 ### Projects
 
