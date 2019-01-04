@@ -21,8 +21,7 @@ Version InstallShield 2015 Limited Edition for Visual Studio
 ### Projects
 Projects | Technology
 ------------ | ------------
-Convo
-Winforms + C#
+Convo | Winforms + C#
 InstallConvoWindows
 InstallShield LE
 MobileAPI
