@@ -71,12 +71,13 @@ Custom control to standardize the messageBox according to the Convo format
 
 # SipClient 
 
-### Paths: VC++ Directories: Add Path 
+__Right Click to SipClient Project and open Properties__
 ![Image of ref](https://github.com/raj-d/GitSync/blob/master/ref_1.png)
 #
+__Paths: VC++ Directories: Add Path__
 ![Image of ref](https://github.com/raj-d/GitSync/blob/master/ref_3.png)
 
-__Right Click to SipClient Project and open Properties__
+
 
 ### Executable Directories: 
 
