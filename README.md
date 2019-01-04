@@ -1,39 +1,22 @@
 
-COMPONENT GUIDE
-
-
-
-Content
-Instructions	3
-General Information	4
-Required files	5
-Flows	5
-
-
-Instructions
-
-General Information
+# COMPONENT GUIDE
 
 
+### Content
+1. Instructions
+2. General Information	
+3. Required files	
+4. Flows
 
+### Instructions
 
-Development requirements
+**General Information For Development requirements**
 
 Visual Studio 2015 Professional 
 Visual C++ 2015
 versión InstallShield 2015 Limited Edition for Visual Studio
 
-
-
-
-
-
-
-
-
-
-
-Projects
+### Projects
 
 
 Projects
@@ -56,10 +39,9 @@ MessageBoxManager
 C#
 
 
-Structure of the project
+### Structure of the project
 
 
-
 Projects Description
 
 
@@ -82,23 +64,17 @@ Figure 2: important configuration
 
 
 
-Sparkle (v.0.5.7)
+### Sparkle (v.0.5.7)
 https://winsparkle.org/
 
-
-ColorSlider
+### ColorSlider
 Custom control used to handle the advance status of videoMail
 
-SIPConvo
+### SIPConvo
 Project that has enumerations and structures to integrate SIPClient (some structures are mirror of SIPClient C ++ but in C #)
 
-
-MessageBoxManager
+### MessageBoxManager
 Custom control to standardize the messageBox according to the Convo format
-
-
-
- 
 
 
 ![Image of ref](https://github.com/raj-d/GitSync/blob/master/ref%20added.PNG)
