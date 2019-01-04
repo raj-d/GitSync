@@ -14,6 +14,8 @@
 
 Software Requirements 
 ------------ 
+Software Requirements | 
+------------ | 
 Visual Studio 2015 Professional 
 Visual C++ 2015
 version InstallShield 2015 Limited Edition for Visual Studio
