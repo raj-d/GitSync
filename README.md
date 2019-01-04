@@ -1,5 +1,5 @@
  
-![Image of ref](/raj-d/GitSync/blob/master/ref%20added.PNG)
+![Image of ref](https://github.com/raj-d/GitSync/blob/master/ref%20added.PNG)
 Right Click to SipClient Project and open Properties
 
 Paths: VC++ Directories: Add Path
