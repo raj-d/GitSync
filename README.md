@@ -19,10 +19,8 @@ Visual C++ 2015
 Version InstallShield 2015 Limited Edition for Visual Studio
 
 ### Projects
-
------------- |
-Projects
-Technology
+Projects | Technology
+------------ | ------------
 Convo
 Winforms + C#
 InstallConvoWindows
