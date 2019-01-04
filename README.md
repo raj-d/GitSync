@@ -1,5 +1,5 @@
  
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 Right Click to SipClient Project and open Properties
 
 Paths: VC++ Directories: Add Path
