@@ -75,8 +75,11 @@ Project that has enumerations and structures to integrate SIPClient (some struct
 ### MessageBoxManager
 Custom control to standardize the messageBox according to the Convo format
 
+# SipClient 
 
-# Paths: VC++ Directories: Add Path
+### Paths: VC++ Directories: Add Path 
+![Image of ref](https://github.com/raj-d/GitSync/blob/master/ref_1.png.PNG)
+
 ![Image of ref](https://github.com/raj-d/GitSync/blob/master/ref%20added.PNG)
 Right Click to SipClient Project and open Properties
 
