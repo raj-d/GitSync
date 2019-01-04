@@ -1,4 +1,106 @@
+
+COMPONENT GUIDE
+
+
+
+Content
+Instructions	3
+General Information	4
+Required files	5
+Flows	5
+
+
+Instructions
+
+General Information
+
+
+
+
+Development requirements
+
+Visual Studio 2015 Professional 
+Visual C++ 2015
+versión InstallShield 2015 Limited Edition for Visual Studio
+
+
+
+
+
+
+
+
+
+
+
+Projects
+
+
+Projects
+Technology
+Convo
+Winforms + C#
+InstallConvoWindows
+InstallShield LE
+MobileAPI
+C#
+SIPClient
+Visual C++
+Sparkle
+Visual C++
+ColorSlider
+C#
+SIPConvo
+C#
+MessageBoxManager
+C#
+
+
+Structure of the project
+
+
+
+Projects Description
+
+
+Figure 1 Project in Visual Studio
+Convo
+Main project of the solution, integrates all the components and listens to SIPClient events
+
+
+InstallConvoWindows
+Installer of the application, it is important to note that it is the InstallShield 2015 Limited  Edition for Visual Studio version so some things can not be done easily (we must go to cmd or powershell)
+
+MobileAPI
+This project (assembly) contains all the integration with MobileAPI REST services and returns the results as objects
+
+SIPClient
+Project developed with Visual c ++ in which the entire framework of Spirent 3.5.0.64 is integrated
+
+
+Figure 2: important configuration
+
+
+
+Sparkle (v.0.5.7)
+https://winsparkle.org/
+
+
+ColorSlider
+Custom control used to handle the advance status of videoMail
+
+SIPConvo
+Project that has enumerations and structures to integrate SIPClient (some structures are mirror of SIPClient C ++ but in C #)
+
+
+MessageBoxManager
+Custom control to standardize the messageBox according to the Convo format
+
+
+
  
+
+
 ![Image of ref](https://github.com/raj-d/GitSync/blob/master/ref%20added.PNG)
 Right Click to SipClient Project and open Properties
 
