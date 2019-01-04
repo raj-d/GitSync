@@ -11,9 +11,7 @@
 ### Instructions
 
 **General Information For Development requirements**
-
-Software Requirements 
------------- 
+ 
 Software Requirements | 
 ------------ | 
 Visual Studio 2015 Professional 
