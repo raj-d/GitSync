@@ -22,20 +22,13 @@ Version InstallShield 2015 Limited Edition for Visual Studio
 Projects | Technology
 ------------ | ------------
 Convo | Winforms + C#
-InstallConvoWindows
-InstallShield LE
-MobileAPI
-C#
-SIPClient
-Visual C++
-Sparkle
-Visual C++
-ColorSlider
-C#
-SIPConvo
-C#
-MessageBoxManager
-C#
+InstallConvoWindows | InstallShield LE
+MobileAPI | C#
+SIPClient | Visual C++
+Sparkle | Visual C++
+ColorSlider | C#
+SIPConvo | C#
+MessageBoxManager | C#
 
 
 ### Structure of the project
